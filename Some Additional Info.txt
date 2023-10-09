@@ -1,0 +1,2 @@
+The answers to number 4 and number 5 have been included in the respective implementations of the search methods ..
+printed with the help of the "print()"  method...as shown in thwe output of the code.
